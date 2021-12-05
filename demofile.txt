@@ -1,0 +1,5 @@
+name,vaccination,firstDose,secondDose,F0
+Gia Nguyen,True,AstraZenaca,AstraZenaca,False
+Van Anh,True,AstraZenaca,AstraZenaca,False
+Hai Dang,True,AstraZenaca,AstraZenaca,False
+Ngoc Han,False,AstraZenaca,AstraZenaca,False
